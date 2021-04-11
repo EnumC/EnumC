@@ -1,4 +1,4 @@
-### Hi there 👋
+### You found an easter egg! 
 
 <!--
 **EnumC/EnumC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Please check out my work on any of the orgs listed, or check out some of my personal projects! Most collaborative works are located in [BananiumLabs](https://github.com/BananiumLabs) ⤵
